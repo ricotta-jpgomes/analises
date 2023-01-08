@@ -1,2 +1,2 @@
 # analises
-Neste repositório compartilho notebooks com analises exploratorias diversas desenvolvidas ao longo dos meus estudos.
+Neste repositório compartilho notebooks com análises exploratórias diversas desenvolvidas ao longo dos meus estudos.
